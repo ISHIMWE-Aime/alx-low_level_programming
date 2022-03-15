@@ -1,6 +1,7 @@
 #include <main.h>
+
 /**
- * main - prints_purtchar, followed by a new line
+ * main - prints _putchar, followed bybnew line
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -16,3 +17,4 @@ int main(void)
 	_putchar('\n');
 	return (0);
 }
+
